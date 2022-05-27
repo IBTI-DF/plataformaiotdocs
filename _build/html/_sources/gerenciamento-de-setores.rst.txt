@@ -6,3 +6,9 @@ Em gerenciamento de setor é possível adicionar e remover setores para os dispo
 Cadastrando um setor 
 ----------------------
 
+01. No menu lateral clique em “Gerenciamento de Setor”.
+
+.. figure:: images/v27.png
+    :width: 100%
+    :align: center
+

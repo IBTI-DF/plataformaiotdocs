@@ -1,5 +1,5 @@
 Como acessar a plataforma ?
-==============================
+=============================
 
 Para entrar na plataforma, o usuário deve primeiro acessar o endereço eletrônico  onde a plataforma 
 está disponibilizada e fazer o login com suas credenciais, caso ainda não possua cadastro deverá clicar 

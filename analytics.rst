@@ -1,5 +1,5 @@
 Analytics
-===================
+=================
 
 Analytics é um iframe do servidor Metabase onde traz dados que foram enviados diretamente para a plataforma, usando filtros como: tipo, dispositivo e dados.
 
@@ -8,4 +8,4 @@ Analytics é um iframe do servidor Metabase onde traz dados que foram enviados d
     :align: center
 
 Filtrando as informações dentro do Analytics 
---------------------------------------------------
+------------------------------------------------

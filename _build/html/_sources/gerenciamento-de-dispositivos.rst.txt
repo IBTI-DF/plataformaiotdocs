@@ -104,7 +104,6 @@ Preencha o campo “Byte inicial 1” e “Byte final 1” conforme o payload do
     :width: 100%
     :align: center
 
-
 Por fim, deve-se cadastrar a operação, clique em “adicionar operação ” e adicione todas as operações que forem necessárias (consulte o datasheet do dispositivo).
 
 .. figure:: images/v16.png

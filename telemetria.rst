@@ -6,3 +6,4 @@ Na telemetria é possível monitorar os dados de um dispositivo específico, sel
 .. figure:: images/v25.png
     :width: 100%
     :align: center
+    
