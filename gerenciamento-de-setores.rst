@@ -9,6 +9,6 @@ Cadastrando um setor
 01. No menu lateral clique em “Gerenciamento de Setor”.
 
 .. figure:: images/v27.png
-    :width: 100%
-    :align: center
+    :width: 70%
+    :align: left
 
